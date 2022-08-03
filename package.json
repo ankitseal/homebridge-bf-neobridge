@@ -1,0 +1,50 @@
+{
+  "_from": "homebridge-bf-neobridge@latest",
+  "_id": "homebridge-bf-neobridge@1.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-v5St6tiw3Z22zKYA8l6LhJQTZoVgoc+xws+dAB5W4Zu8XUhjEYrk4S0z+rV8GZVnZSddwFTgKVduuZ6Y9kEFxA==",
+  "_location": "/homebridge-bf-neobridge",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "homebridge-bf-neobridge@latest",
+    "name": "homebridge-bf-neobridge",
+    "escapedName": "homebridge-bf-neobridge",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-bf-neobridge/-/homebridge-bf-neobridge-1.3.0.tgz",
+  "_shasum": "da56877253d28a0640b927c5b94c104f6bb2a76e",
+  "_spec": "homebridge-bf-neobridge@latest",
+  "_where": "/usr",
+  "bugs": {
+    "url": "http://github.com/example/homebridge/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "heatmiser": "github:carlossg/heatmiser-node"
+  },
+  "deprecated": false,
+  "description": "Homebridge plugin for Heatmiser's Neohub",
+  "engines": {
+    "homebridge": ">=0.4.0",
+    "node": ">=8.9"
+  },
+  "homepage": "https://github.com/example/homebridge#readme",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "ISC",
+  "name": "homebridge-bf-neobridge",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/example/homebridge.git"
+  },
+  "version": "1.3.0"
+}
